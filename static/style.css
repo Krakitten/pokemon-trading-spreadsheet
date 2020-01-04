@@ -366,14 +366,14 @@ td.rows4 .item-sprite.row3 { margin:0 0.125em; }
 }
 .menu-sprite{
     background-image:url(menusprites.png);
-    width:7.5em;
-    height:7.5em;
+    width:1.875em;
+    height:1.875em;
     margin:0 0.3125em
 }
 .sprite.up{
     padding:0.3125em 0.125em 0.5625em
 }
-.menu-sprite.charmander{width:120px;background-position:0 0}
+.menu-sprite.charmander{background-position:0 0}
 
 span.hidden-power{
     background-image:url(types.png);

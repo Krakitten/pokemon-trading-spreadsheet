@@ -366,8 +366,8 @@ td.rows4 .item-sprite.row3 { margin:0 0.125em; }
 }
 .menu-sprite{
     background-image:url(menusprites.png);
-    width:1.875em;
-    height:1.875em;
+    width:7.5em;
+    height:7.5em;
     margin:0 0.3125em
 }
 .sprite.up{

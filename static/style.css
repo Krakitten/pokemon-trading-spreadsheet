@@ -373,11 +373,11 @@ td.rows4 .item-sprite.row3 { margin:0 0.125em; }
 .sprite.up{
     padding:0.3125em 0.125em 0.5625em
 }
-.menu-sprite.bulbasaur{background-position:-30px 0}
+.menu-sprite.charmander{background-position:-30px 0}
 .menu-sprite.ivysaur{background-position:-60px 0}
 .menu-sprite.venusaur{background-position:-90px 0}
 .menu-sprite.venusaur-mega{background-position:-120px 0}
-.menu-sprite.charmander{background-position:-30px 0}
+.menu-sprite.bulbasaur{background-position:-150px 0}
 .menu-sprite.charmeleon{background-position:-180px 0}
 .menu-sprite.charizard{background-position:-210px 0}
 .menu-sprite.charizard-mega-x{background-position:-250px 0}

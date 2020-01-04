@@ -373,7 +373,7 @@ td.rows4 .item-sprite.row3 { margin:0 0.125em; }
 .sprite.up{
     padding:0.3125em 0.125em 0.5625em
 }
-.menu-sprite.charmander{width:30px;height:30px;background-position:0 30px}
+.menu-sprite.falinks{width:30px;height:30px;background-position:0 0}
 
 span.hidden-power{
     background-image:url(types.png);

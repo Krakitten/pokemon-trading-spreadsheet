@@ -377,7 +377,7 @@ td.rows4 .item-sprite.row3 { margin:0 0.125em; }
 .menu-sprite.ivysaur{background-position:-60px 0}
 .menu-sprite.venusaur{background-position:-90px 0}
 .menu-sprite.venusaur-mega{background-position:-120px 0}
-.menu-sprite.charmander{background-position:-30px 0}
+.menu-sprite.charmander{background-position:0 0}
 .menu-sprite.charmeleon{background-position:-180px 0}
 .menu-sprite.charizard{background-position:-210px 0}
 .menu-sprite.charizard-mega-x{background-position:-250px 0}
